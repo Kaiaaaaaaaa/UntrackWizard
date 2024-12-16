@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Untrack wizard",
+  "version": "1.0",
+  "description": "Untick consent on website consent forms",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": {
+      "48": "icon48.png"
+    },
+    "default_title": "Uncheck All"
+  },
+  "icons": {
+    "48": "icon48.png"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  }
+}
