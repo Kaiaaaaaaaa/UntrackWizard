@@ -1,10 +1,10 @@
-Firefox plugin som unchecker alle "I consent" bobler på en consent form.
+Firefox Plugin that Unchecks All "I Consent" Checkboxes on a GDPR Consent Form
 
-Installasjon:
-1. Unzip mappen og høyreklikk på .xpi-filen
-2. Veg "unblock", nederst i høyre hjørne
-3. Dra .xpi-filen inn i firefox (hvilket som helt vindu)
-4. Velg "add" på popupen som spør om du vil installere addonen.
-	- Tick "allow in private window" om du vil at den skal virke i privat sesjon også.
-5. Trykk på addon-knappen (puselspillbrikke), og så på tannhjulet ved siden av addonen
-6. Velg "pin to toolbar" -> knappen skal nå være synelig på båndet øverst til høyre. 
+Installation:
+1. Unzip the folder and right-click on the `.xpi` file.  
+2. Select "Unblock" in the bottom right corner.  
+3. Drag the `.xpi` file into any Firefox window.  
+4. Click "Add" on the popup that asks if you want to install the addon.  
+   - Tick "Allow in private window" if you want it to work in private sessions as well.  
+5. Click the addon button (puzzle piece icon), then the gear icon next to the addon.  
+6. Select "Pin to Toolbar" -> the button should now be visible on the toolbar in the top-right corner.  
